@@ -1,0 +1,72 @@
+# Python
+*.py[cod]
+*.pyo
+*.pyd
+__pycache__/
+*.so
+
+# Django
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+db.sqlite3
+media
+
+# Environments
+.env
+venv/
+ENV/
+env/
+.venv/
+env.bak/
+venv.bak/
+
+# IDEs and editors
+.idea/
+.vscode/
+*.swp
+*~
+.project
+.pydevproject
+*.sublime-workspace
+*.sublime-project
+.DS_Store
+
+# Coverage reports
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Deployment
+*.pyo
+*.pyd
+*.pid
+*.seed
+*.backup
+*.log
+
+# macOS
+*.DS_Store
+
+# JetBrains
+.idea/
+
+# PyCharm
+.idea/
+.idea/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+.dmypy.json.*/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# End of https://www.toptal.com/developers/gitignore/api/python,django,flask
